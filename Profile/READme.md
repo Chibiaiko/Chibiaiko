@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/alexismcguire1/">Alexis McGuire</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-💼😊👩🏻‍💻 About Me
+## 💼😊👩🏻‍💻 About Me
 
 I am a dedicated cybersecurity professional with a strong interest in addressing complex security challenges through hands-on, practical projects. My experience spans areas such as vulnerability management, threat detection, and security operations, where I focus on developing and implementing solutions that enhance organizational security and resilience.
 
