@@ -14,17 +14,14 @@ jobs:
           github_user_name: Chibiaiko
           outputs: |
             dist/github-contribution-grid-snake.svg
-          snake_color: "#5A189A"        # dark purple snake
-          background_color: "#000000"   # black background
-          color_dots: |
-            #E6CFE6,  # lilac (light)
-            #D8BFD8,  # thistle
-            #C8A2C8,  # lilac
-            #B57EDC   # purple
+          args: >
+            --color-snake "#5A189A"
+            --color-dots "#E6CFE6,#D8BFD8,#C8A2C8,#B57EDC"
+            --background-color "#000000"
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
