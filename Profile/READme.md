@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=C8A2C8&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+%F0%9F%91%8B;I'm+Alexis+McGuire;"
        alt="Typing SVG">
 </p>
----
+
 
 ![Snake animation](https://github.com/Chibiaiko/Chibiaiko/blob/output/github-contribution-grid-snake.svg)
 
